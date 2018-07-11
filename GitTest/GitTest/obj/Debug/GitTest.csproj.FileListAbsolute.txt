@@ -1,0 +1,4 @@
+D:\GitTest\GitTest\GitTest\bin\GitTest.dll
+D:\GitTest\GitTest\GitTest\bin\GitTest.pdb
+D:\GitTest\GitTest\GitTest\obj\Debug\GitTest.dll
+D:\GitTest\GitTest\GitTest\obj\Debug\GitTest.pdb
